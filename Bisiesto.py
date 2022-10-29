@@ -2,7 +2,6 @@ from ast import Return
 from multiprocessing.resource_sharer import stop
 import numpy as np
 import pandas as pd
-import matplotlib as plt
 import random
 
 def Lap_year(year):
