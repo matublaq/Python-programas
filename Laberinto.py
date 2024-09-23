@@ -39,6 +39,7 @@ def Generar_mapa():
     X = 1
     Y = 1
     Map[X][Y] = "▀"
+    
     #contador = (N*N)/2 - ((N*N)/2)%1
     contador = 10000
     print("Contador inicial = ", contador, "♡")

@@ -30,6 +30,6 @@ if ((opcion==1) or (opcion==2)):
         
         print("Los numeros primos que hay desde el 1 hasta el " + str(numero) + " son: ", numeros_primos, "(Son ", len(numeros_primos), " numeros primos)")
 
-print("Grafica con numeros primos.\n")
+#print("Grafica con numeros primos.\n")
 
 print(numeros_primos)
